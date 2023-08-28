@@ -1,0 +1,10 @@
+ address : 192.168.85.28
+ issue : [V0005] Disk Space Usage /;OK
+ description : [V0005] Disk Space Usage /;OK;DISK OK - free space: / 8285 MiB (32.38% inode=99%):
+ contact group : Operations
+ project key : MSAPGTHBCMPNT
+ project id : 10860
+ issue_status : OK
+ last issue line : [1692919622] SERVICE NOTIFICATION: SupportGroup;HUB-EXTENSIONS-CELCOM-ESB-02;[V0005] Disk Space Usage /;WARNING;notify-service-by-email;DISK WARNING - free space: / 7607 MiB (29.73% inode=99%):
+ last status : WARNING
+jira ticket: {"id":"252645","key":"MSAPGTHBCMPNT-106153","self":"https://boost-holdings.atlassian.net/rest/api/2/issue/252645"}\n
