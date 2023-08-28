@@ -42,7 +42,7 @@ while read line ; do
 contact group : $contact\n project key : $jira_project_key\n project id : $jira_project_id \n issue_status : $issue_status\n last issue line : $last_issue_line\n last status : $last_status" >> /mnt/nagios_log_chk/critical.log
 
                 TICKET_URL="https://boost-holdings.atlassian.net/rest/api/2/issue"
-                ACCESS_TOKEN="c2lkYXRoQG15Ym9vc3QuY286QVRBVFQzeEZmR0YwSVhwb18wSzNoR3RwS2ExcmtyRmotN1BLeExQT3o3aVJnYVRZUWZyU2JqVzVpb1dsQnpLbi1JX1VrWGJkdzRuUFFrNkRBNFdza0F6dVZ6bm1Ib0N6a01xVEJUWlE3MzJmQzhHdUJoSGg0Y09Sb09wd2VZZ25QWk9yNVp2N2lWY3NSQzFzQnJVdVJTWDRWS09admFqc3VTY1p5a2Z3QkxPTVZqcGpMSGxFUTk4PUM1OEFCQTNB"
+                ACCESS_TOKEN="XXXXXXXX"
 
 
 
